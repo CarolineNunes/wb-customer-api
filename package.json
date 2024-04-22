@@ -1,0 +1,17 @@
+{
+  "name": "atvi-wb",
+  "version": "0.0.1",
+  "description": "ATVI-WB - Sistema gerenciador de clientes, serviços e produtos.",
+  "main": "out/app/main.js",
+  "scripts": {
+    "start": "tsc && node ./out/app/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.7.10",
+    "@types/prompt-sync": "^4.1.1",
+    "prompt-sync": "^4.2.0",
+    "typescript": "^5.4.5"
+  }
+}
